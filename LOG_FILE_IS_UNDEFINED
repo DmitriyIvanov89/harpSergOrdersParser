@@ -1,0 +1,9 @@
+2021-11-20 00:33:30.351  INFO 15156 --- [main] c.h.parser.CsvJsonParserApplication      : Starting CsvJsonParserApplication using Java 17.0.1 on DESKTOP-LATC68F with PID 15156 (C:\Users\drgre\OneDrive\Рабочий стол\harpserg\target\classes started by drgre in C:\Users\drgre\OneDrive\Рабочий стол\harpserg)
+2021-11-20 00:33:30.361  INFO 15156 --- [main] c.h.parser.CsvJsonParserApplication      : No active profile set, falling back to default profiles: default
+2021-11-20 00:33:31.060  INFO 15156 --- [main] c.h.parser.CsvJsonParserApplication      : Started CsvJsonParserApplication in 1.37 seconds (JVM running for 1.801)
+2021-11-20 00:34:44.495  INFO 16328 --- [main] c.h.parser.CsvJsonParserApplication      : Starting CsvJsonParserApplication using Java 17.0.1 on DESKTOP-LATC68F with PID 16328 (C:\Users\drgre\OneDrive\Рабочий стол\harpserg\target\classes started by drgre in C:\Users\drgre\OneDrive\Рабочий стол\harpserg)
+2021-11-20 00:34:44.498  INFO 16328 --- [main] c.h.parser.CsvJsonParserApplication      : No active profile set, falling back to default profiles: default
+2021-11-20 00:34:45.170  INFO 16328 --- [main] c.h.parser.CsvJsonParserApplication      : Started CsvJsonParserApplication in 1.356 seconds (JVM running for 1.822)
+2021-11-20 00:35:05.913  INFO 9768 --- [main] c.h.parser.CsvJsonParserApplication      : Starting CsvJsonParserApplication using Java 17.0.1 on DESKTOP-LATC68F with PID 9768 (C:\Users\drgre\OneDrive\Рабочий стол\harpserg\target\classes started by drgre in C:\Users\drgre\OneDrive\Рабочий стол\harpserg)
+2021-11-20 00:35:05.917  INFO 9768 --- [main] c.h.parser.CsvJsonParserApplication      : No active profile set, falling back to default profiles: default
+2021-11-20 00:35:06.581  INFO 9768 --- [main] c.h.parser.CsvJsonParserApplication      : Started CsvJsonParserApplication in 1.35 seconds (JVM running for 1.786)
